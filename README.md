@@ -1,7 +1,7 @@
 # Dissertation: Antarctic Megadunes
 These scripts illustarte the code used to investigate Antarcticas megadunes. Megadunes are a unique wave landfrom expression formed by wind laid snow deposits. 
 
-<img src="" alt="Simply Easy Learning" width="200" height="80">
+<img src="3D MD fig copy.png" alt="Simply Easy Learning" width="200" height="80">
 
 ## REMA
 
