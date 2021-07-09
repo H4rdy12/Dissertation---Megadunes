@@ -3,4 +3,5 @@ These scripts illustarte the code used to investigate Antarcticas megadunes. Meg
 
 ## REMA
 
-## Extracting REMA elevation alonga specific flightpath
+### Extracting REMA elevation alonga specific flightpath
+code based from: https://portailsig.org/content/python-utilisation-des-couches-vectorielles-et-matricielles-dans-une-perspective-geologique-.html
