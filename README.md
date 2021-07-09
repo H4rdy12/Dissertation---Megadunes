@@ -2,6 +2,7 @@
 These scripts illustarte the code used to investigate Antarcticas megadunes. Megadunes are a unique wave landfrom expression formed by wind laid snow deposits. 
 
 <img src="3D MD fig copy.png" alt="Simply Easy Learning" width="800" height="320">
+- 3D image of megadunes East of Lake Vostok.
 
 ## REMA
 
