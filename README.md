@@ -13,3 +13,8 @@ These REMA extracted elevations from a flightpath aligned with various altimeter
 
 ### Calculate wave landform expression charachteristics
 Calculating: amplitude, wavelength, length and frequency.
+
+see/ use Waveform.py
+
+This script extracts the peak, trough points along transect lines and stores these values. These values are then used to calculate amplitude and wavelengths.
+Plots can be created showing all transects for each site. But adds 12mins runtime to the script.
