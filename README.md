@@ -7,10 +7,10 @@ These are low amplitude, high wavelength features constructed from aelian drift 
 <img src="3D MD fig copy.png" alt="Simply Easy Learning" width="800" height="320">
 - 3D image of megadunes East of Lake Vostok.
 
-##Quantifying MD.
+## Quantifying MD.
 These scripts illustrate the code used to investigate Antarcticas megadunes. Megadunes are a unique wave landfrom expression formed by wind laid snow deposits. 
 
-## REMA
+### REMA
 
 ### Extract elevation data from line shape file off tif.ipynb
 code based from: https://portailsig.org/content/python-utilisation-des-couches-vectorielles-et-matricielles-dans-une-perspective-geologique-.html .
