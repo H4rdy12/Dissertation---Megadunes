@@ -25,7 +25,7 @@ see/ use Waveform.py
 This script extracts the peak, trough points along transect lines and stores these values. These values are then used to calculate amplitude and wavelengths.
 Plots can be created showing all transects for each site. But adds 12mins runtime to the script.
 
-### Extract altimter representation of megadunes
+### Extract altimeter representation of megadunes
 
-HDF5 and netcdf files containing transect paths were generated and extracted over 5-sites and contrasted with REMA. See individual site scripts clean_site[x].py
+HDF5 and netcdf files containing transect paths were generated and extracted over 5-sites and contrasted with REMA. See individual site scripts clean_site[x].ipynb
 
