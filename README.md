@@ -33,6 +33,6 @@ HDF5 and netcdf files containing transect paths were generated and extracted ove
 
 QGIS transects were drawn and the shapefiles were read and processed in python extracting each pixel along the shapefile. Therby extracting the raster slope/roughness pixel. Basic stats and ranges were quantified. 
 
-see/use slope extracted.py & roughness extraction.py
+see/use slope_extraction.py & Roughness_extraction.py
 
 These ranges were then used back in QGIS to generate an output raster calculated megadune location model (continental scale).
