@@ -29,3 +29,10 @@ Plots can be created showing all transects for each site. But adds 12mins runtim
 
 HDF5 and netcdf files containing transect paths were generated and extracted over 5-sites and contrasted with REMA. See individual site scripts clean_site[x].ipynb
 
+### Extract of surface metric values to generate continent ranges in slope and roughness for megadunes.
+
+QGIS transects were drawn and the shapefiles were read and processed in python extracting each pixel along the shapefile. Therby extracting the raster slope/roughness pixel. Basic stats and ranges were quantified. 
+
+see/use slope extracted.py & roughness extraction.py
+
+These ranges were then used back in QGIS to generate an output raster calculated megadune location model (continental scale).
