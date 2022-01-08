@@ -31,7 +31,7 @@ HDF5 and netcdf files containing transect paths were generated and extracted ove
 
 See individual site scripts Clean-Site[x].ipynb [x] = A/B/C/D/E.
 
-### Extract of surface metric values to generate continent ranges in slope and roughness for megadunes.
+## Extract of surface metric values to generate continent ranges in slope and roughness for megadunes.
 
 QGIS transects were drawn and the shapefiles were read and processed in python extracting each pixel along the shapefile. Therby extracting the raster slope/roughness pixel. Basic stats and ranges were quantified. 
 
