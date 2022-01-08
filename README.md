@@ -1,5 +1,5 @@
 # Dissertation: Antarctic Megadunes
-This work is the code used as part of my undergraduate dissertation. Appologies for poor commenting throughout scripts.
+This work is the code used as part of my undergraduate dissertation. Scripts contain code used. However, data not added to github and therefore, will not run. Own data will need to be applied. Appologies for poor commenting throughout scripts.
 
 ## Megadunes (MD)
 These are low amplitude, high wavelength features constructed from aelian drift snow, formed from tens thousands of years. They occupy vast fields +500,000km2 (see image below for segmnet example). These features are previously thought to occupy ~18% of Eastern Antartrica. It is unknown how well modern altimters will represent the megadune morphology and if so how accurately. This work aims to assess this comparing between various forms of altimters ICESat-2 (IS2), CryoSat-2 (CS2). Therefore, assessing Radar vs laser based approaches. This was weighted and assessed against REMA a DEM for antartica constructed from ICESat-1 and CryoSat-2 alongside the Worldview product series and Geoeye data. 
