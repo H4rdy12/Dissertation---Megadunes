@@ -29,7 +29,7 @@ Plots can be created showing all transects for each site. But adds 12mins runtim
 
 HDF5 and netcdf files containing transect paths were generated and extracted over 5-sites and contrasted with REMA. 
 
-See individual site scripts Clean-Site[x].ipynb [x] = A/B/C/D/E.
+See 'Altimeter representation of megadunes each site folder' for individual site scripts Site[x].ipynb [x] = A/B/C/D/E.
 
 ## Extract of surface metric values to generate continent ranges in slope and roughness for megadunes.
 
