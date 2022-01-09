@@ -35,6 +35,6 @@ See 'Altimeter representation of megadunes each site folder' for individual site
 
 QGIS transects were drawn and the shapefiles were read and processed in python extracting each pixel along the shapefile. Therby extracting the raster slope/roughness pixel. Basic stats and ranges were quantified. 
 
-see/use slope_extraction.py & Roughness_extraction.py
+see/use 'Extract surface metric values along transects'--> slope_extraction.py & Roughness_extraction.py
 
 These ranges were then used back in QGIS to generate an output raster calculated megadune location model (continental scale).
