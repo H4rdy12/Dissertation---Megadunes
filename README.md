@@ -15,7 +15,7 @@ These scripts illustrate the code used to investigate Antarcticas megadunes. Meg
 ### Extract elevation data from line shape file off tif.ipynb
 code based from: https://portailsig.org/content/python-utilisation-des-couches-vectorielles-et-matricielles-dans-une-perspective-geologique-.html .
 
-These REMA extracted elevations from a flightpath aligned with various altimeter satellite products to assess how well REMA accurately represents megadune features. The altimeter products used were ICESat-2, CryoSat-2 and Sentinnel-3.
+These REMA extracted elevations from a flightpath aligned with various altimeter satellite products to assess how well REMA accurately represents megadune features. The altimeter products used were ICESat-2 and CryoSat-2
 
 ### Calculate wave landform expression charachteristics
 Calculating: amplitude, wavelength.
